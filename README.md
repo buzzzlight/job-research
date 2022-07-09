@@ -12,6 +12,7 @@
 - [프로그래머스](https://career.programmers.co.kr/)
 - [사람인](https://www.saramin.co.kr)
 - [잡코리아](https://www.jobkorea.co.kr)
+- [링크드인](https://www.linkedin.com/feed/)
 
 ## 참고자료
 
